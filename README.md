@@ -102,6 +102,15 @@ Dices/
 ---
 
 
+## Spanish Version
+
+A Spanish version of this project is also available.
+
+<img src=".github/assets/flag_spain.png" width="30"> 
+[View Spanish version](https://github.com/martinmol2007/dado_sim)
+
+---
+
 ## Author
 
 Martin (@martinmol2007)
