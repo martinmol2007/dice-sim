@@ -1,4 +1,4 @@
-# 🎲 DadoSim — Dice Roll Simulator in C++ 🎲
+# 🎲 DiceSim — Dice Roll Simulator in C++ 🎲
 
 A command-line dice simulator written in C++.
 Rolls a 6-sided die N times, saves the visual history to one file, and automatically generates statistics with a bar chart in another.
