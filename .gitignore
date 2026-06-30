@@ -1,0 +1,6 @@
+# Archivos que serán ignorados
+*.cor
+*.inp
+*.exe
+*.txt
+*.png
